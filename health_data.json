@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Abinaya",
+        "age": 20,
+        "weight": 40.0,
+        "height": 135.0,
+        "steps": 7000,
+        "sleep": 6.0,
+        "goal": "musle gain",
+        "date": "2026-02-19",
+        "BMI": 21.95
+    },
+    {
+        "name": "Sivasamy",
+        "age": 52,
+        "BMI": 13.56,
+        "steps": 7000,
+        "sleep": 6.0,
+        "goal": "fitness",
+        "health_score": 80,
+        "date": "2026-02-19"
+    },
+    {
+        "name": "abi",
+        "age": 22,
+        "BMI": 22.96,
+        "steps": 7200,
+        "sleep": 5.0,
+        "goal": "musle gain",
+        "health_score": 80,
+        "date": "2026-02-19"
+    },
+    {
+        "name": "Abinaya",
+        "age": 20,
+        "BMI": 21.95,
+        "steps": 7000,
+        "sleep": 7.0,
+        "goal": "Musle gain",
+        "health_score": 95,
+        "date": "2026-02-19"
+    }
+]
